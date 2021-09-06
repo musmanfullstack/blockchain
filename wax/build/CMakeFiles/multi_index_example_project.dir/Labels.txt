@@ -1,0 +1,14 @@
+# Target labels
+ multi_index_example_project
+# Source files and their labels
+/wax/build/CMakeFiles/multi_index_example_project
+/wax/build/CMakeFiles/multi_index_example_project.rule
+/wax/build/CMakeFiles/multi_index_example_project-complete.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-install.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-mkdir.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-download.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-update.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-patch.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-configure.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-build.rule
+/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-test.rule

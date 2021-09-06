@@ -1,0 +1,1 @@
+/usr/local/eosio.cdt/bin/eosio-ld  CMakeFiles/multi_index_example.dir/multi_index_example.obj -o multi_index_example.wasm 

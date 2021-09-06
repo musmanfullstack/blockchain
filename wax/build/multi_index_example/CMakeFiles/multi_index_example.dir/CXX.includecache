@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/src/../include/multi_index_example.hpp
+eosio/eosio.hpp
+-
+
+/wax/src/multi_index_example.cpp
+multi_index_example.hpp
+-
+

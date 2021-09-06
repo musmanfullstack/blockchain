@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/wax/build/CMakeFiles/multi_index_example_project"
+		},
+		{
+			"file" : "/wax/build/CMakeFiles/multi_index_example_project.rule"
+		},
+		{
+			"file" : "/wax/build/CMakeFiles/multi_index_example_project-complete.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-install.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-mkdir.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-download.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-update.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-patch.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-configure.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-build.rule"
+		},
+		{
+			"file" : "/wax/build/multi_index_example_project-prefix/src/multi_index_example_project-stamp/multi_index_example_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"multi_index_example_project"
+		],
+		"name" : "multi_index_example_project"
+	}
+}
